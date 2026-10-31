@@ -12,10 +12,10 @@ It does not publish the strategy rules or the holdings.
 
 | Output | File |
 |---|---|
-| Daily card, 2026-10-29 | [PNG](cards/2026/card-2026-10-29.png), [PDF](cards/2026/card-2026-10-29.pdf) |
-| Weekly report, week of 2026-10-26 (to 10-28) | [PDF](weekly/weekly-2026-10-26-2026-10-28.pdf) |
-| Monthly report, October 2026 (to 10-28) | [PDF](monthly/monthly-2026-10.pdf) |
-| Full record, 2026-10-16 to 2026-10-28 | [PDF](record/record-2026-10-16-to-2026-10-28-v2.pdf) |
+| Daily card, 2026-10-30 | [PNG](cards/2026/card-2026-10-30.png), [PDF](cards/2026/card-2026-10-30.pdf) |
+| Weekly report, week of 2026-10-26 | [PDF](weekly/weekly-2026-10-26-2026-10-30.pdf) |
+| Monthly report, October 2026 | [PDF](monthly/monthly-2026-10-v2.pdf) |
+| Full record, 2026-10-16 to 2026-10-30 | [PDF](record/record-2026-10-16-to-2026-10-30.pdf) |
 
 ## How to read it
 
@@ -42,3 +42,5 @@ Files are added, never rewritten. A correction, if one is needed, is a new file 
 
 - 2026-10-28: layout change, same numbers. SPY is now shown like every other fund. The `-v2` card and record
   files of 2026-10-28 use the new layout; the first versions stay next to them.
+- 2026-10-30: the October monthly report for the whole month is `monthly-2026-10-v2.pdf`; the first file,
+  `monthly-2026-10.pdf`, covers October to 10-28 and stays.
