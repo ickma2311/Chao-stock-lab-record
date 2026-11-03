@@ -36,7 +36,7 @@ It does not publish the strategy rules or the holdings.
 - A weekly PDF after the last session of each week.
 - A monthly PDF, with more detail, after each month end.
 
-Files are added, never rewritten. A correction, if one is needed, is a new file with a note.
+Dated files are added, never rewritten. Only latest-card.png and this README change each day. A correction, if one is needed, is a new file with a note.
 
 ## Notes
 
