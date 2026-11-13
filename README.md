@@ -12,10 +12,10 @@ It does not publish the strategy rules or the holdings.
 
 | Output | File |
 |---|---|
-| Daily card, 2026-11-12 | [PNG](cards/2026/card-2026-11-12.png), [PDF](cards/2026/card-2026-11-12.pdf) |
-| Weekly report, week of 2026-11-02 | [PDF](weekly/weekly-2026-11-02-2026-11-06.pdf) |
+| Daily card, 2026-11-13 | [PNG](cards/2026/card-2026-11-13.png), [PDF](cards/2026/card-2026-11-13.pdf) |
+| Weekly report, week of 2026-11-09 | [PDF](weekly/weekly-2026-11-09-2026-11-13.pdf) |
 | Monthly report, October 2026 | [PDF](monthly/monthly-2026-10-v2.pdf) |
-| Full record, 2026-10-16 to 2026-11-06 | [PDF](record/record-2026-10-16-to-2026-11-06.pdf) |
+| Full record, 2026-10-16 to 2026-11-13 | [PDF](record/record-2026-10-16-to-2026-11-13.pdf) |
 
 ## How to read it
 
